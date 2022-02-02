@@ -19,4 +19,4 @@ Runs the API app in the production mode.\
 Open [http://localhost:3000](http://localhost:4000) that will point to Azure SQL Server DB to view it in the browser.
 
 ### `Steps to deploy the backend app on Azure`
-You can follow the [azure backend deploy instruction](https://mycostech.sharepoint.com/:w:/r/sites/MycosInternship/_layouts/15/Doc.aspx?sourcedoc=%7BEEB24172-1CAD-4C2B-89B1-FD84E09B7282%7D&file=Steps%20to%20deploy%20the%20backend%20api%20app%20on%20Azure.docx&action=default&mobileredirect=true) to explain steps to deploy the backend API application as App Service on Azure.
+You can follow the [azure backend deploy instruction](https://docs.google.com/document/d/1a5RdVKFSj9cgmMg_WrEzDe_FfwsjhnDv/edit) to explain steps to deploy the backend API application as App Service on Azure.
