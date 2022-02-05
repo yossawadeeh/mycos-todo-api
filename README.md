@@ -20,3 +20,6 @@ Open [http://localhost:3000](http://localhost:4000) that will point to Azure SQL
 
 ### `Steps to deploy the backend app on Azure`
 You can follow the [azure backend deploy instruction](https://docs.google.com/document/d/1a5RdVKFSj9cgmMg_WrEzDe_FfwsjhnDv/edit) to explain steps to deploy the backend API application as App Service on Azure.
+
+### `Steps to deploy the sql server on Azure`
+You can follow the [azure sql server instruction](https://docs.google.com/document/d/1dPTVKiUjSyi5R30ZfMZq-Y-m9ydFfZdW/edit) to explain steps to set the sql server as App Service on Azure.
